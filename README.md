@@ -8,7 +8,7 @@ Vítej v mém kreativním koutku! Tento repozitář obsahuje moje videoprojekty 
 
 | 🎥 Video | 🔍 Popis |
 |----------|---------|
-| [Halucinace Kling AI](https://github.com/Katy-Coder-Kat/Creative_Katy/blob/main/Halucinace%20Kling%20AI.mp4?raw=true) | Experiment s AI generovanými halucinacemi v Kling AI. Hypnotické a fascinující! |
+| [Halucinace Kling AI](https://github.com/Katy-Coder-Kat/Creative_Katy/blob/main/Halucinace%20Kling%20AI.mp4?raw=true) | Experiment s AI generovanými halucinacemi v Kling AI. |
 | [Hugging Face Space + Kling AI](https://github.com/Katy-Coder-Kat/Creative_Katy/blob/main/Hugging%20Face%20Space%2B%20Kling%20AI.mp4?raw=true) | Kombinace různých AI platforem pro generování jedinečných vizuálních efektů. |
 | [Kling AI + Clipchamp](https://github.com/Katy-Coder-Kat/Creative_Katy/blob/main/Kling%20AI%20%2B%20Clipchamp.mp4?raw=true) | Úprava a postprodukce AI generovaného obsahu pomocí Clipchamp. |
 
